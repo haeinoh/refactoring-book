@@ -3,15 +3,15 @@
 
 
 
-#### 1. [CH02] 리팩터링 원칙 
+#### 1. [CH02] [리팩터링 원칙](https://github.com/haeinoh/refactoring-book/tree/main/ch02) 
 
 
 
-#### 2-1. [CH03] 코드에서 나는 악취
+#### 2-1. [CH03] [코드에서 나는 악취](https://github.com/haeinoh/refactoring-book/blob/main/ch03/README.md)
 
 
 
-#### 2-2. [CH04] 테스트 구축하기
+#### 2-2. [CH04] [테스트 구축하기](https://github.com/haeinoh/refactoring-book/blob/main/ch04/README.md)
 
 
 
