@@ -19,7 +19,7 @@
 
 
 
-#### 3-2. [CH06] 기본적인 리팩터링
+#### 3-2. [CH06] [기본적인 리팩터링](https://github.com/haeinoh/refactoring-book/tree/main/ch06)
 
 
 
