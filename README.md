@@ -23,7 +23,7 @@
 
 
 
-#### 4. [CH07] 캡슐화
+#### 4. [CH07] [캡슐화](https://github.com/haeinoh/refactoring-book/tree/main/ch07)
 
 
 
